@@ -1,6 +1,6 @@
 import axios from "axios"
 
-const url : string = "http://localhost:1122/api/v1"
+const url : string = "https://todobe-t6yj.onrender.com/api/v1"
 
 export const createDoneTask = async () => {
     try {
